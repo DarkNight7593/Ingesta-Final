@@ -166,7 +166,6 @@ def crear_instructores_y_poblar():
                     })
                     print(f"    🕒 Horario creado: {horario['dias']} {horario['inicio_hora']}-{horario['fin_hora']}")
 
-                    # Elegir 2 alumnos únicos para este horario
                     for alumno in alumnos[h_index*2:h_index*2+2]:
                         estado = random.choice(["reservado", "inscrito"])
                         pk = f"{tenant_id}#{alumno['dni']}#{estado}"
@@ -181,9 +180,9 @@ def crear_instructores_y_poblar():
                             "fecha_inicio": curso["inicio"],
                             "fecha_fin": curso["fin"],
                             "precio": Decimal(str(curso["precio"])),
-                            "instructor_dni": curso["instructor_dni"],
-                            "instructor_nombre": curso["instructor_nombre"],
-                            "curso_nombre": curso["nombre"],
+                            "instructor_dni": item["instructor_dni"],
+                            "instructor_nombre": item["instructor_nombre"],
+                            "curso_nombre": item["nombre"],
                             "dias": horario["dias"],
                             "inicio_hora": horario["inicio_hora"],
                             "fin_hora": horario["fin_hora"]
