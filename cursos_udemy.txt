@@ -1,0 +1,542 @@
+[
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Node.js desde cero",
+    "descripcion": "Aprende Node.js desde sus fundamentos hasta construir APIs REST completas.",
+    "inicio": "2025-08-21",
+    "fin": "2025-09-22",
+    "precio": 148.99,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de React.js moderno",
+    "descripcion": "Desarrolla aplicaciones SPA con React y TypeScript desde cero.",
+    "inicio": "2025-08-04",
+    "fin": "2025-10-01",
+    "precio": 129.43,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Python para ciencia de datos",
+    "descripcion": "Domina Python, NumPy, Pandas y Matplotlib aplicados a proyectos de análisis de datos.",
+    "inicio": "2025-08-01",
+    "fin": "2025-09-23",
+    "precio": 136.6,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Java Backend",
+    "descripcion": "Implementa servicios web robustos usando Java y Spring Boot.",
+    "inicio": "2025-08-03",
+    "fin": "2025-09-08",
+    "precio": 122.39,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Docker y Kubernetes",
+    "descripcion": "Aprende a contenerizar aplicaciones y orquestarlas con Kubernetes.",
+    "inicio": "2025-08-17",
+    "fin": "2025-10-01",
+    "precio": 189.77,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Git y GitHub",
+    "descripcion": "Domina el control de versiones y flujos de trabajo colaborativos.",
+    "inicio": "2025-08-20",
+    "fin": "2025-10-05",
+    "precio": 86.78,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de PostgreSQL",
+    "descripcion": "Aprende desde lo básico hasta consultas avanzadas en PostgreSQL.",
+    "inicio": "2025-08-21",
+    "fin": "2025-10-06",
+    "precio": 132.31,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de AWS con Lambda",
+    "descripcion": "Desarrolla soluciones serverless con AWS Lambda y otros servicios.",
+    "inicio": "2025-08-22",
+    "fin": "2025-09-25",
+    "precio": 90.58,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Linux para DevOps",
+    "descripcion": "Configura y automatiza entornos Linux para producción.",
+    "inicio": "2025-08-30",
+    "fin": "2025-10-07",
+    "precio": 82.59,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Django y DRF",
+    "descripcion": "Crea APIs RESTful con Django y Django REST Framework.",
+    "inicio": "2025-08-04",
+    "fin": "2025-09-05",
+    "precio": 166.33,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Flutter y Firebase",
+    "descripcion": "Desarrolla apps móviles multiplataforma integradas con Firebase.",
+    "inicio": "2025-08-17",
+    "fin": "2025-09-24",
+    "precio": 140.7,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Android con Kotlin",
+    "descripcion": "Construye aplicaciones Android modernas con Kotlin.",
+    "inicio": "2025-08-27",
+    "fin": "2025-09-26",
+    "precio": 151.05,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Swift y iOS",
+    "descripcion": "Desarrolla apps nativas para iPhone con Swift.",
+    "inicio": "2025-08-02",
+    "fin": "2025-09-14",
+    "precio": 179.34,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de C++ moderno",
+    "descripcion": "Programa con C++17/20 utilizando buenas prácticas.",
+    "inicio": "2025-08-15",
+    "fin": "2025-09-21",
+    "precio": 116.55,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Inteligencia Artificial",
+    "descripcion": "Conceptos clave de IA: búsqueda, planificación, agentes.",
+    "inicio": "2025-08-21",
+    "fin": "2025-09-24",
+    "precio": 123.21,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Machine Learning",
+    "descripcion": "Modelos de aprendizaje supervisado y no supervisado con Python.",
+    "inicio": "2025-08-15",
+    "fin": "2025-10-01",
+    "precio": 90.44,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de TensorFlow y Deep Learning",
+    "descripcion": "Redes neuronales profundas, CNNs y RNNs con TensorFlow.",
+    "inicio": "2025-08-13",
+    "fin": "2025-09-29",
+    "precio": 89.0,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Blockchain",
+    "descripcion": "Entiende cómo funciona Blockchain y desarrolla smart contracts.",
+    "inicio": "2025-08-27",
+    "fin": "2025-10-21",
+    "precio": 164.15,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Rust para sistemas",
+    "descripcion": "Aprende Rust para desarrollar software de alto rendimiento.",
+    "inicio": "2025-08-11",
+    "fin": "2025-09-11",
+    "precio": 91.65,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Go (Golang) para APIs",
+    "descripcion": "Desarrolla servicios web escalables usando Go.",
+    "inicio": "2025-08-30",
+    "fin": "2025-10-11",
+    "precio": 95.0,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Ciberseguridad",
+    "descripcion": "Fundamentos de seguridad informática y técnicas de hacking ético.",
+    "inicio": "2025-08-05",
+    "fin": "2025-09-11",
+    "precio": 127.33,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Criptografía aplicada",
+    "descripcion": "Encripta y protege información en sistemas reales.",
+    "inicio": "2025-08-09",
+    "fin": "2025-09-08",
+    "precio": 160.61,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Metodologías Ágiles",
+    "descripcion": "Scrum, Kanban y gestión ágil de proyectos.",
+    "inicio": "2025-08-04",
+    "fin": "2025-09-30",
+    "precio": 188.23,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de UI/UX con Figma",
+    "descripcion": "Diseña interfaces y experiencias centradas en el usuario.",
+    "inicio": "2025-08-18",
+    "fin": "2025-09-18",
+    "precio": 152.22,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Marketing Digital",
+    "descripcion": "SEO, SEM, analítica y estrategias digitales.",
+    "inicio": "2025-08-06",
+    "fin": "2025-09-30",
+    "precio": 138.05,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Excel Avanzado",
+    "descripcion": "Tablas dinámicas, macros, fórmulas complejas en Excel.",
+    "inicio": "2025-08-12",
+    "fin": "2025-09-18",
+    "precio": 193.26,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Power BI",
+    "descripcion": "Visualización de datos y dashboards interactivos.",
+    "inicio": "2025-08-02",
+    "fin": "2025-09-30",
+    "precio": 132.76,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Finanzas para no financieros",
+    "descripcion": "Contabilidad básica, análisis de costos y presupuestos.",
+    "inicio": "2025-08-08",
+    "fin": "2025-09-09",
+    "precio": 145.47,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Inglés técnico",
+    "descripcion": "Inglés enfocado en documentación y entrevistas técnicas.",
+    "inicio": "2025-08-07",
+    "fin": "2025-09-22",
+    "precio": 105.94,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "udemy",
+    "nombre": "Curso de Scrum y Product Owner",
+    "descripcion": "Gestión de productos y equipos ágiles con Scrum.",
+    "inicio": "2025-08-23",
+    "fin": "2025-10-13",
+    "precio": 198.31,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  }
+]

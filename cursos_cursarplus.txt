@@ -1,0 +1,542 @@
+[
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Álgebra Lineal",
+    "descripcion": "Vectores, matrices, espacios vectoriales y transformaciones lineales.",
+    "inicio": "2025-08-11",
+    "fin": "2025-09-26",
+    "precio": 87.59,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Cálculo Diferencial",
+    "descripcion": "Límites, derivadas y aplicaciones en la vida real.",
+    "inicio": "2025-08-13",
+    "fin": "2025-09-23",
+    "precio": 116.61,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Cálculo Integral",
+    "descripcion": "Integrales definidas, técnicas de integración y áreas bajo curvas.",
+    "inicio": "2025-08-11",
+    "fin": "2025-09-13",
+    "precio": 151.39,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Ecuaciones Diferenciales",
+    "descripcion": "Modelado de sistemas físicos mediante EDOs.",
+    "inicio": "2025-08-18",
+    "fin": "2025-10-09",
+    "precio": 83.36,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Cálculo Multivariable",
+    "descripcion": "Funciones de varias variables, derivadas parciales e integrales múltiples.",
+    "inicio": "2025-08-30",
+    "fin": "2025-10-08",
+    "precio": 129.83,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Estadística Descriptiva",
+    "descripcion": "Análisis de datos con tablas, gráficos y medidas de tendencia.",
+    "inicio": "2025-08-31",
+    "fin": "2025-10-04",
+    "precio": 100.6,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Probabilidades",
+    "descripcion": "Eventos, espacios muestrales, distribuciones y teoremas fundamentales.",
+    "inicio": "2025-08-25",
+    "fin": "2025-10-06",
+    "precio": 167.54,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Inferencia Estadística",
+    "descripcion": "Estimación, intervalos de confianza y pruebas de hipótesis.",
+    "inicio": "2025-08-03",
+    "fin": "2025-09-25",
+    "precio": 103.34,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Matemática Discreta",
+    "descripcion": "Lógica, conjuntos, grafos, relaciones y funciones.",
+    "inicio": "2025-08-24",
+    "fin": "2025-09-26",
+    "precio": 151.21,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Álgebra Abstracta",
+    "descripcion": "Grupos, anillos y cuerpos en estructuras matemáticas.",
+    "inicio": "2025-08-20",
+    "fin": "2025-10-02",
+    "precio": 195.66,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Optimización",
+    "descripcion": "Programación lineal y no lineal para resolver problemas reales.",
+    "inicio": "2025-08-17",
+    "fin": "2025-09-20",
+    "precio": 131.04,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Teoría de Números",
+    "descripcion": "Divisibilidad, congruencias, números primos y criptografía.",
+    "inicio": "2025-08-27",
+    "fin": "2025-10-05",
+    "precio": 173.68,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Geometría Analítica",
+    "descripcion": "Rectas, cónicas, distancias y vectores en el plano.",
+    "inicio": "2025-08-24",
+    "fin": "2025-10-08",
+    "precio": 117.26,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Geometría Euclidiana",
+    "descripcion": "Demostraciones, ángulos, triángulos y polígonos.",
+    "inicio": "2025-08-08",
+    "fin": "2025-09-12",
+    "precio": 174.97,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Lógica Matemática",
+    "descripcion": "Proposiciones, tablas de verdad, razonamientos y pruebas.",
+    "inicio": "2025-08-05",
+    "fin": "2025-09-17",
+    "precio": 182.46,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Análisis Numérico",
+    "descripcion": "Métodos computacionales para resolver ecuaciones y derivadas.",
+    "inicio": "2025-08-26",
+    "fin": "2025-10-12",
+    "precio": 118.3,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Matemática Financiera",
+    "descripcion": "Interés compuesto, anualidades, préstamos y tasas.",
+    "inicio": "2025-08-02",
+    "fin": "2025-09-08",
+    "precio": 189.28,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Estadística Aplicada",
+    "descripcion": "Aplicaciones en negocios, ingeniería y ciencias sociales.",
+    "inicio": "2025-08-26",
+    "fin": "2025-10-07",
+    "precio": 134.69,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Modelamiento Matemático",
+    "descripcion": "Formulación y resolución de problemas del mundo real.",
+    "inicio": "2025-08-11",
+    "fin": "2025-09-27",
+    "precio": 110.74,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Historia de las Matemáticas",
+    "descripcion": "Grandes matemáticos, teorías y evolución del pensamiento matemático.",
+    "inicio": "2025-08-10",
+    "fin": "2025-10-02",
+    "precio": 176.88,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Didáctica de las Matemáticas",
+    "descripcion": "Estrategias para enseñar matemática en distintos niveles.",
+    "inicio": "2025-08-29",
+    "fin": "2025-10-16",
+    "precio": 134.56,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Matemáticas para Ingeniería",
+    "descripcion": "Herramientas matemáticas aplicadas a la ingeniería.",
+    "inicio": "2025-08-05",
+    "fin": "2025-09-15",
+    "precio": 195.55,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Funciones Reales",
+    "descripcion": "Funciones, continuidad, límites y aplicaciones.",
+    "inicio": "2025-08-31",
+    "fin": "2025-10-04",
+    "precio": 94.23,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Trigonometría",
+    "descripcion": "Funciones trigonométricas, identidades y aplicaciones.",
+    "inicio": "2025-08-06",
+    "fin": "2025-09-10",
+    "precio": 174.75,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Estadística para ciencias sociales",
+    "descripcion": "Aplicación de conceptos estadísticos al análisis social.",
+    "inicio": "2025-08-17",
+    "fin": "2025-09-19",
+    "precio": 167.95,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Matemáticas para economía",
+    "descripcion": "Microeconomía, optimización y modelos matemáticos.",
+    "inicio": "2025-08-29",
+    "fin": "2025-10-19",
+    "precio": 146.45,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Combinatoria",
+    "descripcion": "Principios de conteo, permutaciones y combinaciones.",
+    "inicio": "2025-08-19",
+    "fin": "2025-09-28",
+    "precio": 145.07,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Series y Sucesiones",
+    "descripcion": "Convergencia, sumatorias y aplicaciones.",
+    "inicio": "2025-08-15",
+    "fin": "2025-10-02",
+    "precio": 194.13,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Métodos estadísticos computacionales",
+    "descripcion": "Uso de software para análisis estadístico.",
+    "inicio": "2025-08-05",
+    "fin": "2025-10-03",
+    "precio": 94.09,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "cursarplus",
+    "nombre": "Curso de Técnicas de muestreo",
+    "descripcion": "Diseño de muestras representativas y análisis.",
+    "inicio": "2025-08-30",
+    "fin": "2025-10-27",
+    "precio": 167.34,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Redes Cisco",
+    "descripcion": "Configura redes empresariales usando routers y switches Cisco.",
+    "inicio": "2025-08-15",
+    "fin": "2025-10-14",
+    "precio": 91.58,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Electrónica Digital",
+    "descripcion": "Aprende lógica digital, compuertas, flip-flops y circuitos integrados.",
+    "inicio": "2025-08-02",
+    "fin": "2025-09-19",
+    "precio": 81.27,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Programación en C",
+    "descripcion": "Domina programación estructurada para sistemas embebidos.",
+    "inicio": "2025-08-08",
+    "fin": "2025-09-18",
+    "precio": 85.85,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Automatización Industrial",
+    "descripcion": "Programación de PLCs y sistemas de control industrial.",
+    "inicio": "2025-08-31",
+    "fin": "2025-10-14",
+    "precio": 88.99,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Arduino desde cero",
+    "descripcion": "Crea proyectos electrónicos con Arduino UNO y sensores.",
+    "inicio": "2025-08-07",
+    "fin": "2025-09-10",
+    "precio": 86.61,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Raspberry Pi y Linux",
+    "descripcion": "Domótica, IoT y servidores caseros con Raspberry Pi.",
+    "inicio": "2025-08-24",
+    "fin": "2025-10-01",
+    "precio": 120.66,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Robótica básica",
+    "descripcion": "Diseño y programación de robots con sensores y actuadores.",
+    "inicio": "2025-08-07",
+    "fin": "2025-10-06",
+    "precio": 171.4,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Electricidad básica",
+    "descripcion": "Circuitos eléctricos, ley de Ohm y protección de instalaciones.",
+    "inicio": "2025-08-30",
+    "fin": "2025-10-19",
+    "precio": 149.85,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Redes y Cableado estructurado",
+    "descripcion": "Instalación y mantenimiento de redes físicas LAN.",
+    "inicio": "2025-08-24",
+    "fin": "2025-10-05",
+    "precio": 142.4,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Seguridad informática",
+    "descripcion": "Protege redes y sistemas ante amenazas cibernéticas.",
+    "inicio": "2025-08-20",
+    "fin": "2025-10-14",
+    "precio": 99.94,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Cloud Computing con AWS",
+    "descripcion": "Implementa soluciones cloud con EC2, S3 y RDS.",
+    "inicio": "2025-08-02",
+    "fin": "2025-09-18",
+    "precio": 142.82,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Google Cloud Platform",
+    "descripcion": "Desarrolla e implementa en la nube de Google.",
+    "inicio": "2025-08-04",
+    "fin": "2025-09-04",
+    "precio": 160.58,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Electrónica analógica",
+    "descripcion": "Uso de componentes como resistencias, capacitores, transistores.",
+    "inicio": "2025-08-11",
+    "fin": "2025-09-24",
+    "precio": 97.89,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Internet de las Cosas (IoT)",
+    "descripcion": "Conecta sensores a internet y procesa datos en la nube.",
+    "inicio": "2025-08-31",
+    "fin": "2025-10-20",
+    "precio": 115.82,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Machine Learning aplicado",
+    "descripcion": "Clasificación, regresión y clustering con scikit-learn.",
+    "inicio": "2025-08-14",
+    "fin": "2025-09-13",
+    "precio": 139.72,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Python aplicado a ingeniería",
+    "descripcion": "Automatiza cálculos, gráficas y lectura de sensores.",
+    "inicio": "2025-08-29",
+    "fin": "2025-10-09",
+    "precio": 146.85,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Sistemas operativos",
+    "descripcion": "Aprende cómo funcionan procesos, memoria y sistema de archivos.",
+    "inicio": "2025-08-09",
+    "fin": "2025-10-08",
+    "precio": 175.65,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Lenguaje ensamblador",
+    "descripcion": "Programa microcontroladores a bajo nivel.",
+    "inicio": "2025-08-27",
+    "fin": "2025-09-30",
+    "precio": 149.44,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Microcontroladores PIC",
+    "descripcion": "Usa MPLAB y C para controlar hardware electrónico.",
+    "inicio": "2025-08-09",
+    "fin": "2025-10-07",
+    "precio": 115.59,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de SQL Server",
+    "descripcion": "Consulta, normaliza y gestiona bases de datos en SQL Server.",
+    "inicio": "2025-08-29",
+    "fin": "2025-10-13",
+    "precio": 184.7,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Bases de datos NoSQL",
+    "descripcion": "Crea soluciones escalables con MongoDB y Redis.",
+    "inicio": "2025-08-14",
+    "fin": "2025-10-09",
+    "precio": 96.87,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Inteligencia Artificial práctica",
+    "descripcion": "Aplica IA en problemas reales usando Python.",
+    "inicio": "2025-08-30",
+    "fin": "2025-10-25",
+    "precio": 165.86,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Desarrollo de firmware",
+    "descripcion": "Diseña software para dispositivos embebidos.",
+    "inicio": "2025-08-04",
+    "fin": "2025-10-02",
+    "precio": 83.67,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Electrónica de potencia",
+    "descripcion": "Convertidores, inversores y control de motores.",
+    "inicio": "2025-08-15",
+    "fin": "2025-09-26",
+    "precio": 187.78,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Ingeniería inversa de software",
+    "descripcion": "Analiza binarios, descompilación y debugging.",
+    "inicio": "2025-08-14",
+    "fin": "2025-10-04",
+    "precio": 129.34,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de SCADA y HMI",
+    "descripcion": "Supervisión y control industrial con software SCADA.",
+    "inicio": "2025-08-22",
+    "fin": "2025-10-15",
+    "precio": 103.75,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de MATLAB para ingenieros",
+    "descripcion": "Simulación de sistemas y procesamiento de señales.",
+    "inicio": "2025-08-24",
+    "fin": "2025-10-10",
+    "precio": 118.45,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Redes inalámbricas",
+    "descripcion": "Diseño y configuración de WiFi y enlaces punto a punto.",
+    "inicio": "2025-08-03",
+    "fin": "2025-09-08",
+    "precio": 129.52,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Ciberseguridad industrial",
+    "descripcion": "Protege infraestructura crítica y sistemas SCADA.",
+    "inicio": "2025-08-16",
+    "fin": "2025-09-20",
+    "precio": 131.2,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  },
+  {
+    "tenant_id": "edutec",
+    "nombre": "Curso de Deep Learning con PyTorch",
+    "descripcion": "Redes neuronales profundas en visión y lenguaje natural.",
+    "inicio": "2025-08-12",
+    "fin": "2025-10-11",
+    "precio": 124.34,
+    "informacion": {
+      "silabo": "1. Introducción\n2. Fundamentos\n3. Práctica guiada\n4. Proyecto final\n5. Evaluación",
+      "modulos": [
+        "Módulo 1: Fundamentos teóricos",
+        "Módulo 2: Práctica aplicada",
+        "Módulo 3: Desarrollo de casos reales",
+        "Módulo 4: Optimización y mejoras",
+        "Módulo 5: Evaluación y cierre"
+      ]
+    }
+  }
+]
