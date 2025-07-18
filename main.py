@@ -25,14 +25,12 @@ with open('cursos_edutec.txt') as f:
 
 cursos_por_tenant = {
     'udemy': cursos_udemy,
-    'cursarplus': cursos_cursarplus,
-    'edutec': cursos_edutec
+    'cursarplus': cursos_cursarplus
 }
 
 tenants = [
     {"tenant_id": "udemy"},
-    {"tenant_id": "cursarplus"},
-    {"tenant_id": "edutec"}
+    {"tenant_id": "cursarplus"}
 ]
 
 def hash_password(password):
@@ -110,7 +108,7 @@ def crear_instructores_y_poblar():
             print(f"✅ Alumno creado: {dni} - {full_name}")
 
         # Crear instructores y sus cursos
-        for i in range(6):
+        for i in range(5):
             dni = generar_dni(tenant_id[:3], i + 1)
             full_name = f"Instructor {i+1} ({tenant_id})"
             password = hash_password("12345")
